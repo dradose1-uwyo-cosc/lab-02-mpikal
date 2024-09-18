@@ -2,7 +2,7 @@
 # UWYO COSC 1010
 # 9/17/2024
 # Lab 02 
-# Lab Section: 14
+# Lab Section: 11
 # Sources, people worked with, help given to: 
 # your
 # comments
@@ -39,7 +39,7 @@ y = 10
 print(f"x + y = {x + y}")
 print(f"x - y = {x - y}")
 print(f"x * y = {x * y}")
-print(f"x / y = {x / 10}")
+print(f"x / y = {x / y}")
 
 # String concatenation 
     # Finally we will take a look at string concatenation
